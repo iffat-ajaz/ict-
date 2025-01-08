@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\jjkkjjk\\source\\repos\\PF Final sms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E2F72BCC-C209-48F3-9227-9AE199E0512A}|PF Final sms\\PF Final sms.vcxproj|C:\\Users\\jjkkjjk\\source\\repos\\PF Final sms\\PF Final sms\\Student management system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2F72BCC-C209-48F3-9227-9AE199E0512A}|PF Final sms\\PF Final sms.vcxproj|solutionrelative:PF Final sms\\Student management system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jjkkjjk\\AppData\\Local\\Temp\\eac7957e-4f2e-4d78-828a-075eb9a9e5e0_PF-SMS-Final-Project (1).zip.5e0\\PF-SMS-Final-Project\\std.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -11,10 +15,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2F72BCC-C209-48F3-9227-9AE199E0512A}|PF Final sms\\PF Final sms.vcxproj|C:\\Users\\jjkkjjk\\source\\repos\\PF Final sms\\PF Final sms\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2F72BCC-C209-48F3-9227-9AE199E0512A}|PF Final sms\\PF Final sms.vcxproj|solutionrelative:PF Final sms\\header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2F72BCC-C209-48F3-9227-9AE199E0512A}|PF Final sms\\PF Final sms.vcxproj|C:\\Users\\jjkkjjk\\source\\repos\\PF Final sms\\PF Final sms\\Student management system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2F72BCC-C209-48F3-9227-9AE199E0512A}|PF Final sms\\PF Final sms.vcxproj|solutionrelative:PF Final sms\\Student management system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,7 +32,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "std.cpp",
               "DocumentMoniker": "C:\\Users\\jjkkjjk\\AppData\\Local\\Temp\\eac7957e-4f2e-4d78-828a-075eb9a9e5e0_PF-SMS-Final-Project (1).zip.5e0\\PF-SMS-Final-Project\\std.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\eac7957e-4f2e-4d78-828a-075eb9a9e5e0_PF-SMS-Final-Project (1).zip.5e0\\PF-SMS-Final-Project\\std.cpp",
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "header.h",
               "DocumentMoniker": "C:\\Users\\jjkkjjk\\AppData\\Local\\Temp\\743d73c8-f877-4b59-adbc-6412dacc7076_PF-SMS-Final-Project (1).zip.076\\PF-SMS-Final-Project\\header.h",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\743d73c8-f877-4b59-adbc-6412dacc7076_PF-SMS-Final-Project (1).zip.076\\PF-SMS-Final-Project\\header.h",
@@ -57,19 +57,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Student management system.cpp",
               "DocumentMoniker": "C:\\Users\\jjkkjjk\\source\\repos\\PF Final sms\\PF Final sms\\Student management system.cpp",
               "RelativeDocumentMoniker": "PF Final sms\\Student management system.cpp",
               "ToolTip": "C:\\Users\\jjkkjjk\\source\\repos\\PF Final sms\\PF Final sms\\Student management system.cpp",
               "RelativeToolTip": "PF Final sms\\Student management system.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-04T14:24:30.524Z"
+              "WhenOpened": "2025-01-04T14:24:30.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "header.h",
               "DocumentMoniker": "C:\\Users\\jjkkjjk\\source\\repos\\PF Final sms\\PF Final sms\\header.h",
               "RelativeDocumentMoniker": "PF Final sms\\header.h",

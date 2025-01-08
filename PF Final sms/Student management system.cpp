@@ -145,7 +145,7 @@ int main() {
     do {
         cout << "\nStudent Management System\n";
         cout << "1. Add Student\n";
-        cout << "2. Display All Students\n";
+        cout << "2. Display All Students\n"<<endl;
         cout << "3. Search Student\n";
         cout << "4. Delete Student\n";
         cout << "5. Exit\n";
